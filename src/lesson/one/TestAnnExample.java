@@ -1,4 +1,4 @@
-package com.tt.lesson.one;
+package lesson.one;
 
 import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.BeforeTest;
