@@ -1,4 +1,4 @@
-package com.tt.lesson.one;
+package lesson.one;
 
 public class OddEven {
 
