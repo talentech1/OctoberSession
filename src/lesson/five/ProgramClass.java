@@ -23,7 +23,7 @@ public class ProgramClass {
 	
 		System.out.println(rock.weight);
 		
-		System.out.println(Utils.name);
+		
 	}
 
 }
